@@ -14,11 +14,11 @@ Chyby
 <br/>
 <br/>
 Autohotkey v1.1 https://github.com/hornster02/Wanted-2009-CZ/raw/main/script.rar
-<br/>
+
 ```pravé tlačítko myši``` přepínač míření
-<br/>
+
 ```Pause``` vypnout hru (nemusí být v popředí a ani reagovat)
-<br/>
+
 ```CTRL+ALT+INS``` pozastavit/spustit skript
-<br/>
+
 ```CTRL+ALT+HOME``` restartovat skript
